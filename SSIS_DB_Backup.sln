@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_DB_Backup", "SSIS_DB_Backup\SSIS_DB_Backup.dtproj", "{85DE5A53-8CBE-4E62-B525-9F09FE979647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DE5A53-8CBE-4E62-B525-9F09FE979647}.Development|Default.ActiveCfg = Development
+		{85DE5A53-8CBE-4E62-B525-9F09FE979647}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F6337A-7F2E-4CE7-958B-C9501747F6A9}
+	EndGlobalSection
+EndGlobal
